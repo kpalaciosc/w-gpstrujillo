@@ -51,7 +51,7 @@
   <br>
   <div class="row">
     <div class="col-md-6 .col-xs-6">
-        <img class="img-rounded img-responsive" src="img/security0.jpg" alt="seguridad">
+        <img class="img-rounded img-responsive" src="./img/security0.jpg" alt="seguridad">
       </div>
       <div class="col-md-6 .col-xs-6">
       <br><br>
@@ -68,7 +68,7 @@
         <p>GPS TRUJILLO SAC. busca asumir el liderazgo en la distribución de equipos de rastreo GPS a nivel del Perú y servicio de ventas a través de nuestra tienda virtual. Consolidarnos como la empresa preferida por su rapidez, calidad y servicio al cliente.  Aumentando la participación en el mercado nacional para llegar a ser la marca de mayor impacto en Perú.</p>
       </div>
       <div class="col-md-6 .col-xs-6">
-       <img class="img-rounded img-responsive" src="img/security10.JPG" alt="seguridad">
+       <img class="img-rounded img-responsive" src="./img/security10.jpg" alt="seguridad">
       </div>
   </div>
 </div>

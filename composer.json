@@ -1,0 +1,13 @@
+{
+    "name": "usuario/kevincomposer",
+    "type": "project",
+    "require": {
+        "twitter/bootstrap": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "kevinpalacios",
+            "email": "kevin13bryan13@hotmail.com"
+        }
+    ]
+}
